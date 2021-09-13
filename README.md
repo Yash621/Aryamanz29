@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Aryaman;+An+Open+Source+Enthusiast+☀;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Yash;+An+Open+Source+Enthusiast+☀;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
 </p>
 
 <hr>
@@ -31,7 +31,7 @@
 <!-- ----------- GITHUB STATS SECTION ------------ -->
 
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryamanz29&show_icons=true&count_private=true&theme=react" />
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash621&show_icons=true&count_private=true&theme=react" />
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Aryamanz29&theme=react" />
 
