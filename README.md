@@ -35,7 +35,7 @@
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yash621&theme=react" />
 
-[![Aryamans's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aryamanz29&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aryamans's github activity graph](https://activity-graph.herokuapp.com/graph?username=yash621&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
@@ -48,7 +48,7 @@
 
 
 <p align="center">
-<a href="https://discordapp.com/users/Aryaman#1465/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="aryamanz29"/></a> <a href="https://www.linkedin.com/in/aryaman-78382a12b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aryaman_linkedIn"/></a> <a href="https://www.instagram.com/aryaman_z29/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aryaman_z29" /></a>
+<a href="https://discordapp.com/users/yash goel#4991/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="aryamanz29"/></a> <a href="https://www.linkedin.com/in/yash-goel-610543213/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yash_linkedIn"/></a> <a href="https://www.instagram.com/memeskathela/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yash" /></a>
 <br>
 <br>
 <a href="https://twitter.com/AryamanZ29" target="blank"><img src="https://img.shields.io/twitter/follow/AryamanZ29?logo=twitter&style=for-the-badge" alt="AryamanZ29" /></a>
