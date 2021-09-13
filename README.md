@@ -33,7 +33,7 @@
 
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash621&show_icons=true&count_private=true&theme=react" />
 
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Aryamanz29&theme=react" />
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yash621&theme=react" />
 
 [![Aryamans's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aryamanz29&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -59,8 +59,7 @@
 <!-- ----------- CONNECT WITH ME SECTION END ------------ -->
 
 
-[twitter]: https://twitter.com/AryamanZ29
-[instagram]: https://www.instagram.com/aryaman_z29/
-[linkedin]: https://www.linkedin.com/in/aryaman-78382a12b
-[github]:https://github.com/Aryamanz29
-[gmail]:mailto:aryamanz29@gmail.com
+[twitter]: https://twitter.com/
+[linkedin]: https://www.linkedin.com/in/yash-goel-610543213/
+[github]:https://github.com/Yash621
+[gmail]:mailto:yg17381@gmail.com
